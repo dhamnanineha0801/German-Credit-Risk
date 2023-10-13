@@ -14,7 +14,7 @@ In this project we cluster the customers and classify whether an applicant is co
 • Risk (Target value - Good or Bad Risk)
 
 
-**Dataset Source**: Click [here]('https://georgiancollege-my.sharepoint.com/:x:/g/personal/archit_garg_georgiancollege_ca/EZ4fIquX871Dg-sYjmNhIOUB2HJlHI-KXqb0kQazWRO-Jg?e=hOXpZd')
+**Dataset Source**: Click [here](https://georgiancollege-my.sharepoint.com/:x:/g/personal/archit_garg_georgiancollege_ca/EZ4fIquX871Dg-sYjmNhIOUB2HJlHI-KXqb0kQazWRO-Jg?e=hOXpZd)
 
 **Task**: Goal of this project is to cluster the customers and classify whether an applicant is considered a Good or a Bad credit risk for 1000 loan applicants
 
